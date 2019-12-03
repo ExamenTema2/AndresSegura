@@ -33,3 +33,5 @@ public class Vehiculo {
 		this.modelo = modelo;
 	}
 }
+
+// Autor: Andres Segura Saez
