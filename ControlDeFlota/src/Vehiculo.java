@@ -35,3 +35,4 @@ public class Vehiculo {
 }
 
 // Autor: Andres Segura Saez
+// Descripcion: vehiculo perteneciente a una flota de vehiculos
